@@ -1,3 +1,3 @@
 # hello-world1
 First Repository
-practicing a branch
+Practicing a branch
