@@ -18,10 +18,9 @@ Practicng a branch
 *Practicing using GitHub*
 
 ## How To Run Program
-'''text
-Hello_World/
+'Hello_World/
 └── 
-    │── README.md
+    │── README.md'
 
 ## Files Used
 N/A
